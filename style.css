@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color:firebrick;
+    color: rgb(68, 0, 255);
+    font-family: fantasy;
+}
+
+#p1ngn input, #p2ngn input{
+    width: 400px;
+}
